@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.form{
+    text-align: center;
+    background-image: url("../images/blockchain-technology-background-gradient-blue.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    justify-content:center ;
+    display: grid;
+}
+
+
+.btn-1{
+    border-radius: 5px; 
+    border: 2px solid green ;
+}
+
+.submit-btn{
+    padding: 10px;
+}
+
+.heading{
+    color: #fff;
+}
+
+.link{
+    color: #fff;
+    margin: 10px 20px;
+    padding-bottom: 20px;
+}
+
+.submit-btn{
+    border-radius: 10px;
+    border :2px solid green ;
+    color: #fff;
+    background-color: green;
+}
